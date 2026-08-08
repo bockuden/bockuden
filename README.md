@@ -69,6 +69,26 @@ The worker is validated against a pinned release of the independently published
 · [Architecture](https://github.com/bockuden/resilient-browser-automation/blob/main/docs/architecture.md)
 · [Compatibility matrix](https://github.com/bockuden/resilient-browser-automation/blob/main/docs/compatibility-matrix.md)
 
+## Security & Applied ML
+
+### [FlowSentinel — PCAP Intrusion Detection & Anomaly Scoring](https://github.com/bockuden/pcap-intrusion-detection)
+
+I built a reproducible, resource-aware PCAP analytics pipeline with
+leakage-aware validation, transparent model comparison, resumable data
+processing, and safe local scoring.
+
+FlowSentinel converts multi-gigabyte CICIoT2023 captures into auditable
+packet-feature datasets, keeps TCP flows disjoint across train, validation,
+and test, and supports both supervised intrusion classification and
+benign-only anomaly scoring. The published benchmark compares tabular,
+neural, and unsupervised baselines without claiming unseen-capture
+generalization where the source data cannot support it.
+
+[Repository](https://github.com/bockuden/pcap-intrusion-detection)
+· [Release](https://github.com/bockuden/pcap-intrusion-detection/releases/tag/v0.1.0)
+· [Benchmark](https://github.com/bockuden/pcap-intrusion-detection/blob/main/docs/RESULTS_V0.1.0.md)
+· [Data card](https://github.com/bockuden/pcap-intrusion-detection/blob/main/docs/DATA_CARD.md)
+
 ## Applied research
 
 My research repositories emphasize explicit assumptions, evidence provenance,
