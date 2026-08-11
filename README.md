@@ -1,23 +1,21 @@
 # Hi, I'm Yehor Maksimov
 
-Senior .NET and Python engineer building resilient browser automation,
-developer tools, and reproducible data systems.
+I help teams build resilient automation and data systems that remain testable,
+observable, and recoverable under real-world failures.
 
-I have 15+ years of professional C# development experience. My current work
-also spans Python, FastAPI, Playwright, data engineering, applied machine
-learning, and time-series research.
+Senior .NET/Python engineer with 15+ years of professional C# experience.
+My public work spans browser automation, developer tooling, applied ML,
+and reproducible data pipelines.
 
-I focus on systems that remain testable, observable, and recoverable under
-real-world failures—not just on the happy path.
+## Work with me
 
-## Contact and availability
+Available for part-time consulting and project-based work in:
 
-Open to part-time consulting, contract work, and selected technical
-collaborations—especially in browser automation, developer tooling,
-and reproducible data systems.
+- resilient browser and API automation
+- developer tooling for failure and recovery testing
+- reproducible data and applied-ML pipelines
 
-I am currently focused on part-time and project-based opportunities rather
-than full-time roles.
+I am not currently considering full-time roles.
 
 - Email: [bockuden@gmail.com](mailto:bockuden@gmail.com)
 - Telegram: [@bockuden](https://t.me/bockuden)
@@ -111,11 +109,3 @@ results.
 - Time-series analysis, econometrics, and quantitative research
 - Reproducible data pipelines and research artifacts
 - University degree in education, specializing in physics and mathematics teaching
-
-## Current interests
-
-- Resilient browser and API automation
-- Developer tools for testing failure and recovery behavior
-- Production-oriented data and ML pipelines
-- Observability and failure evidence
-- Reproducible quantitative and public-data research
