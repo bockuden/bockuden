@@ -67,6 +67,18 @@ The worker is validated against a pinned release of the independently published
 · [Architecture](https://github.com/bockuden/resilient-browser-automation/blob/main/docs/architecture.md)
 · [Compatibility matrix](https://github.com/bockuden/resilient-browser-automation/blob/main/docs/compatibility-matrix.md)
 
+### [Macro Event Telegram Alerts](https://github.com/bockuden/macro-event-telegram-alerts)
+
+A self-hosted Python and Docker service that sends Telegram reminders before
+significant U.S. macroeconomic events from official BLS, BEA, and Federal
+Reserve schedules. It uses no paid calendar API, keeps durable delivery state
+in SQLite, and is designed for reproducible deployment with secret-safe
+configuration and diagnostic logs.
+
+[Repository](https://github.com/bockuden/macro-event-telegram-alerts)
+· [Releases](https://github.com/bockuden/macro-event-telegram-alerts/releases)
+· [Server deployment guide](https://github.com/bockuden/macro-event-telegram-alerts#deploy-on-a-linux-server-with-docker)
+
 ## Security & Applied ML
 
 ### [FlowSentinel — PCAP Intrusion Detection & Anomaly Scoring](https://github.com/bockuden/pcap-intrusion-detection)
